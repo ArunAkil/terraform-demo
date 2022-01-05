@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lunar-reef-336905",
+  "private_key_id": "04285149244e32d3046af3bce4c7355c906ee0ae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCo+yR9TTuj4rq6\njNrsHmbfpoldkMvrlkKdzhK+/uCxTSivHFWKaCfMO0K4d3h/QxyL9tskb5WOMRBN\n8JiyaDgTmy2aAcyzGosHScP8hfLObBYVtANLhrFYVFafq6anfKAyjGV1OgeNwQsS\nOkKpwHUKEzc00wR0knUpvYT4tCLdsfH+85ue8MhM3k3MNsF0JoQoRC+6LNbzoHjp\n+xYHyUtpHJ5vJng+6fSleH4Z9sbT6QwiMyuCj48OoQyh7W7onBI5X0a5JZZBt1hA\nRy7p45G7AW5pcOqflgooDtdFxMC7V5M1pJ6BYa4S3tbUR0UywqlznlPaprvPu6hK\ndURg5YibAgMBAAECggEAKz9jfmI24mHT0ozcNtQtFg5kV7sIRbpGQGcOay2GSjpq\nMC77QZoYnW+JSvbgswl1E+lQ+slIKIUsHBZ4rih4OaRcjm7peelQLcRWUZnio6wM\nFu/ka/8EAoxLQ0BGPdVqlqVSDieU6VW/xKF+kD1+dt6mIXHkUQVu0Qj9MD3CMqS+\nizlKBQpHGi2e5u3NY32P9TAj6bISimcimLFTmRZHCW74LOg09ZnpR0uvyaad12/A\n2ZC4VQLQ9AAJmUnaoObyN/6HqOObwJ2AxAeD/hqcKMHKjFIHAK615G89hXqy5GD7\n7XfHh08HKlyQj7AKc5C96ypf27sWnI7JWWUX83jUIQKBgQDefGIUDCymhqT/8Tqj\n6dLAyVB6cNTJQr35RBamasRdljWDaHkzLOcT9m7iF09Wqm66pb5EkJ7x8JsGV4Rr\nJ7xn4aBEMznEdaQxUdJR/j6U1PiIXShv6IgypLKylcBajkLEgRSeU5WvawApBvFN\nBqx4w1COUqn3YwoimGq+O/ztawKBgQDCb3o8L6lQNiYeJrzcuxOnPuYjXPD/I2+K\nYVlbx+i8rr7ZRs324gMjk6Bbae4YuL0t8y0IMPEWYbK6L62utrsEm1kfMfj/I5Y4\nwAX241UZazeY/Du66gFNbhEJXyrufEQCk3pES22qHDC/Sgmbv23Z7/WwzY4jeGi4\nkCLVA0XtkQKBgAt9zy8L5e5/+9vAYPAAbsNIYqDAXS08BkXur2DPGO9gh8kOx1vO\nUO0mCFojLBTk3q1DTE2MTrleXRN5x7wlJEUVUUrUfoJYNS/a8wsLH75eNawNa75D\n+2zqNtSkiXfj6yztIdx/oraZxztXQXViB9yA8hM3z9GYSvi4eKL0xD6bAoGBAI/Q\n2w4Hhungk4M7zfhKm7faK2m+xjdBo7AsX2cmz7w4WMvntlLFS+MVv8e967H3e16w\nfv+PC9QtQYC74XDYki5PJbWQRgeZ7/Rb/E1oSzq49m+/KgMQMRRvtERFU0EBQ2DQ\nauB3Fk97+IaVIdRE3OEVv5oeAOO1nWfenRUIDcIxAoGAYxqE83Po5LoHUf/8TLUt\nsK1Sw4MALwIQQRoHpxFbLbgrW5Jlx1Snbyi8/Vw0Zn4zQ4Jbfr1LWwsGTpc0ClUB\nM6kGquO9ZCyQFu25FtCCkZhBlX43l8pRgvphoSOSNJkqBTqjxmQ06oZRWwXzQeTb\ndZW5qM2coDdL0NP/VVQi0xc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-automation@lunar-reef-336905.iam.gserviceaccount.com",
+  "client_id": "116575923952376127141",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-automation%40lunar-reef-336905.iam.gserviceaccount.com"
+}
